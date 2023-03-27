@@ -1,0 +1,12 @@
+#Variáveis e operadores#
+
+a= 5
+b= 4
+soma= a+b
+
+# if "se"
+
+if soma == 8:
+    print("soma é 8")
+else:
+    print("a soma não é 8")
